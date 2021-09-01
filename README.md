@@ -1,1 +1,1 @@
-# TalendTestProject
+# TalendTestProjectConnection
